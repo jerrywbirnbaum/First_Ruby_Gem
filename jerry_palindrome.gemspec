@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Palindrome detector}
   spec.description   = %q{Learn enough ruby palindrome detector}
-  spec.homepage      = "https://github.com/jerrywbirnbaum/Ruby_Tutorial_Gem"
+  spec.homepage      = "https://github.com/jerrywbirnbaum/First_Ruby_Gem"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
@@ -19,8 +19,8 @@ Gem::Specification.new do |spec|
     spec.metadata["allowed_push_host"] = "http://mygemserver.com"
 
     spec.metadata["homepage_uri"] = spec.homepage
-    spec.metadata["source_code_uri"] = "https://github.com/jerrywbirnbaum/Ruby_Tutorial_Gem"
-    spec.metadata["changelog_uri"] = "https://github.com/jerrywbirnbaum/Ruby_Tutorial_Gem/blob/master/CHANGELOG.md"
+    spec.metadata["source_code_uri"] = "https://github.com/jerrywbirnbaum/First_Ruby_Gem"
+    spec.metadata["changelog_uri"] = "https://github.com/jerrywbirnbaum/First_Ruby_Gem/blob/master/CHANGELOG.md"
   else
     raise "RubyGems 2.0 or newer is required to protect against " \
       "public gem pushes."
